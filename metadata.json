@@ -1,0 +1,6 @@
+{
+  "name": "Ed's Mini CRM",
+  "description": "Solo entrepreneur CRM to manage leads pipeline, sales, tasks, clients, follow-ups, and AI recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
